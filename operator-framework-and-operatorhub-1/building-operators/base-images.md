@@ -13,6 +13,5 @@ In order for your operator to be Red Hat certified \([described below](https://d
 
 ![](https://docs.google.com/drawings/u/1/d/sVhD_GvOhzGLHorJvG5BtMQ/image?w=447&h=293&rev=10&ac=1&parent=1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg)
 
-![](https://docs.google.com/document/d/1b7BMffoRu5STEuBDSn0ouqnwX4FlTebB0mpQWt41mvs)
 
 Each of the 4 containers shown above must also remain published and accessible forever, so that OpenShift clusters can continue to start these workloads as Kubernetes moves them around the cluster.  
