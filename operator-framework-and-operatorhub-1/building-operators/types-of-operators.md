@@ -26,7 +26,6 @@ Operators have been built in many languages, including Python and Java, but no S
 The level of sophistication of the management logic encapsulated within an Operator may vary. This logic is also in general highly dependent on the type of the service represented by the Operator. One can however generalize the scale of the maturity of an operator’s encapsulated operations for certain set of capabilities that most operators can include. To this end, we have defined an Operator Maturity model which defines 5 phases of maturity for generic day-2 operations of an operator as illustrated by the diagram below. The diagram also shows how these capabilities can best be developed through the Operator Framework’s Helm, Go, and Ansible capabilities.  
   
 
-
 ![](https://lh4.googleusercontent.com/vq8TvgP_-LB2FWW68qfCorekC0-IdYiR7S9Hd2yYSya-Tj8OjxRtVzJQlTdxucreBZvE3dQEKGVXOqcoD4y41lCRwsKT4WN8CCjiUDKRCybzVOSvVte2JdWFdi2oB2Ctaqb3BQov)
 
 ![](https://lh6.googleusercontent.com/79buJdqZAtbidSHSD0pIEP2AgkjW0uGNBufmj9mQCJsqhGHKJV9uhfPc8xgUpwfGk472TEyeNkBWSJczhnJQW2lAdvNagBfU0OyNlCtr5Xv6wgUiUJWNue4vwsKol7NYpdNASMtW)
