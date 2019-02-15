@@ -4,19 +4,19 @@
 
 ## Operator Overview
 
-* [What is an Operator](operator-overview-1/what-is-an-operator.md)
-* [Desired Customer Experience](operator-overview-1/desired-customer-experience.md)
+* [What is an Operator](operator-overview/what-is-an-operator.md)
+* [Desired Customer Experience](operator-overview/desired-customer-experience.md)
 
 ## Operator Framework and OperatorHub
 
-* [Operator Framework and OperatorHub](operator-framework-and-operatorhub-1/operator-framework-and-operatorhub.md)
-* [Categories of Operators](operator-framework-and-operatorhub-1/categories-of-operators.md)
-* [Advantages of an Operator](operator-framework-and-operatorhub-1/advantages-of-an-operator.md)
-* [Building Operators](operator-framework-and-operatorhub-1/building-operators/README.md)
-  * [Types of Operators](operator-framework-and-operatorhub-1/building-operators/types-of-operators.md)
-  * [Operator SDK](operator-framework-and-operatorhub-1/building-operators/operator-sdk.md)
-  * [Base Images](operator-framework-and-operatorhub-1/building-operators/base-images.md)
-  * [Operator Scorecard](operator-framework-and-operatorhub-1/building-operators/operator-scorecard.md)
+* [Operator Framework and OperatorHub](operator-framework-and-operatorhub/operator-framework-and-operatorhub.md)
+* [Categories of Operators](operator-framework-and-operatorhub/categories-of-operators.md)
+* [Advantages of an Operator](operator-framework-and-operatorhub/advantages-of-an-operator.md)
+* [Building Operators](operator-framework-and-operatorhub/building-operators/README.md)
+  * [Types of Operators](operator-framework-and-operatorhub/building-operators/types-of-operators.md)
+  * [Operator SDK](operator-framework-and-operatorhub/building-operators/operator-sdk.md)
+  * [Base Images](operator-framework-and-operatorhub/building-operators/base-images.md)
+  * [Operator Scorecard](operator-framework-and-operatorhub/building-operators/operator-scorecard.md)
 
 ## Distributing an Operator
 
