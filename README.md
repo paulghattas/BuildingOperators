@@ -14,35 +14,30 @@ Red Hat strongly believes that Operators provide the best Day 1 and Day 2 manage
 1. Provide a set of tools to build high quality Operators that fulfill the promise of hybrid cloud
 2. Provide a discovery and distribution method to connect Red Hat customers with partners that solve the customer’s business problem\(s\) with Operators. Red Hat needs you – as the expert in your arena – to make our customers successful.
 
-#### Table of Contents
+### Table of Contents
 
-[Operator Background/Benefits](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.ucvkps1xf20u)
+#### [Operator Background/Benefits](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.ucvkps1xf20u)
 
-      Service Operators
+* Service Operator
+* Platform Operator
+* Resource Operators
+* Full Solutions
 
-      Platform Operators
+#### [Desired Customer Experience](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.t2f1awtm7ffp)
 
-      Resource Operators
+#### [Building an Operator](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.9f5ux1ikvy1k)
 
-      Full Solutions
+#### [Distributing an Operator with Red Hat](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.mxrgihte3xl9)
 
-[Desired Customer Experience](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.t2f1awtm7ffp)
+* Community Operator
+* Red Hat Partner
+* Certification Requirements
 
-[Building an Operator](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.9f5ux1ikvy1k)
+#### [OperatorHub](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.o1hus9wa5b6y)
 
-[Distributing an Operator with Red Hat](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.mxrgihte3xl9)
+* Upgrading your Operator over-the-air
 
-      Community Operators
-
-       Red Hat Partners
-
-       Certification Requirements
-
-[OperatorHub](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.o1hus9wa5b6y)
-
-       Upgrading your Operator over-the-air
-
-[Appendix](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.okku20mz4txz)
+#### [Appendix](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.okku20mz4txz)
 
  [Example Special Resource Operator Workflow](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.i36am2xvaica)  
 
