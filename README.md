@@ -16,30 +16,30 @@ Red Hat strongly believes that Operators provide the best Day 1 and Day 2 manage
 
 ### Table of Contents
 
-#### [Operator Background/Benefits](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.ucvkps1xf20u)
+#### Operator Background/Benefits
 
 * Service Operator
 * Platform Operator
 * Resource Operators
 * Full Solutions
 
-#### [Desired Customer Experience](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.t2f1awtm7ffp)
+#### Desired Customer Experience
 
-#### [Building an Operator](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.9f5ux1ikvy1k)
+#### Building an Operator
 
-#### [Distributing an Operator with Red Hat](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.mxrgihte3xl9)
+#### Distributing an Operator with Red Hat
 
 * Community Operator
 * Red Hat Partner
 * Certification Requirements
 
-#### [OperatorHub](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.o1hus9wa5b6y)
+#### OperatorHub
 
 * Upgrading your Operator over-the-air
 
-#### [Appendix](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.okku20mz4txz)
+#### Appendix
 
- [Example Special Resource Operator Workflow](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.i36am2xvaica)  
+ Example Special Resource Operator Workflow  
 
 
 

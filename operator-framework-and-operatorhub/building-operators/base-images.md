@@ -6,7 +6,7 @@ Before 2019, redistributing a RHEL base image was not allowed. A new RHEL “Uni
 
 Community Operators may use any base image, but it is highly suggested to use the RHEL universal base image for the best security.
 
-In order for your operator to be Red Hat certified \([described below](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.7js099dyqp0h)\), the Operator and all of its associated images, must use a RHEL based image \(UBI or otherwise\) and be distributed from the Red Hat partner registry. This ensures that Red Hat \(and you by extension\) can comply with legal export compliance. Below is an example of an Operator that uses 4 total images:
+In order for your operator to be Red Hat certified \(described below\), the Operator and all of its associated images, must use a RHEL based image \(UBI or otherwise\) and be distributed from the Red Hat partner registry. This ensures that Red Hat \(and you by extension\) can comply with legal export compliance. Below is an example of an Operator that uses 4 total images:
 
 ![](../../.gitbook/assets/svhd_gvohzglhorjvg5btmq.png)
 
