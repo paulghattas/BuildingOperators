@@ -1,6 +1,6 @@
 ---
 description: >-
-  This document covers high level objectives, benefits and distribution
+  This document covers high level objectives, benefits, and distribution
   opportunities for Operators created by Red Hat partners and open source
   communities.
 ---
