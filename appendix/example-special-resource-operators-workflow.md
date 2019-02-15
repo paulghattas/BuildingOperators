@@ -9,8 +9,6 @@ Below shows the components of an Operator that manages GPU resources. Feature de
 
 ![](../.gitbook/assets/si4rjdj9i93m5wzqcihb6wg.png)
 
-![](https://docs.google.com/drawings/u/1/d/sI4RjDJ9I93m5wzqciHB6wg/image?w=624&h=512&rev=1080&ac=1&parent=1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg)
-
 Any cluster workloads that require a GPU can be steered towards these Nodes by the same label selector on their Deployments and other Kubernetes resources.
 
   
