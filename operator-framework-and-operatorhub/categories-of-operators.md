@@ -27,7 +27,7 @@ Examples: Aggregated Logging, Security Scanning, Namespace Management
 
 Software to manage precious resources, such as network adapters, GPUs, or out of tree kernel modules, plus the required userspace and monitoring code that comprises a full enterprise-quality deployment.  An advanced Resource Operator also handles upgrades and security patching, Day 2 management and operations of resources that it is responsible for.
 
-Examples: CNI Operators, Hardware Management Operators \([see appendix](https://docs.google.com/document/d/1mIt3udqTe8um3HeeomN8wK0cpV8fMeTePx9Dq_rfRYg/edit#heading=h.i36am2xvaica)\), Telco/Cellular Radios  
+Examples: CNI Operators, Hardware Management Operators, Telco/Cellular Radios  
 
 
 #### Full Solutions:
