@@ -1,10 +1,10 @@
 # Types of Operators
 
-The business logic for an Operator – all of your expert knowledge – can be implemented in several pieces of technology. Each have their own SDK
+The business logic for an Operator – all of your expert knowledge – can be implemented in several pieces of technology. Each has its own SDK.
 
-## Go:
+## Go
 
-Ideal for traditional software development teams that want to get to a fully auto-pilot Operator. Ability to leverage the same Kubernetes libraries the upstream projects uses under the hood. [Go Getting Started guide](https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md).
+Ideal for traditional software development teams that want to get to a fully auto-pilot Operator. Ability to leverage the same Kubernetes libraries the upstream projects use under the hood. [Go Getting Started guide](https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md).
 
 ## Ansible
 
